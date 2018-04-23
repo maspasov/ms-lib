@@ -1,6 +1,6 @@
 {
   "name": "ms.lib.ts",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Library QuickStart package.json from the documentation, supplemented with testing support",
   "main": "./bundles/ms.lib.ts.umd.js",
   "module": "./ms.lib.ts.es5.js",
