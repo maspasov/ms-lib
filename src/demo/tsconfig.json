@@ -6,7 +6,7 @@
     "declaration": false,
     "emitDecoratorMetadata": true,
     "paths": {
-      "ms.lib.ts": [
+      "ms-lib": [
         "../lib"
       ]
     }

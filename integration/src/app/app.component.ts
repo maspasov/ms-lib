@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { LibService } from 'ms.lib.ts';
+import { LibService } from 'ms-lib';
 
 @Component({
   selector: 'integration-app',

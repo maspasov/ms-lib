@@ -39,7 +39,7 @@
       rxjs: {
         defaultExtension: 'js'
       },
-      'ms.lib.ts': {
+      'ms-lib': {
         main: 'index.js',
         defaultExtension: 'js',
         meta: {

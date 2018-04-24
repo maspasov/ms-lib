@@ -26,7 +26,7 @@
       // other libraries
       'rxjs':                      'npm:rxjs',
       'angular-in-memory-web-api': 'npm:angular-in-memory-web-api/bundles/in-memory-web-api.umd.js',
-      'ms.lib.ts': 'npm:ms.lib.ts/bundles/ms.lib.ts.umd.js'
+      'ms-lib': 'npm:ms-lib/bundles/ms-lib.umd.js'
     },
     // packages tells the System loader how to load when no filename and/or no extension
     packages: {

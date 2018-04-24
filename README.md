@@ -1,3 +1,3 @@
 TODO
 
-git: https://bitbucket.org/mspasov/ms.lib.ts
+git: https://bitbucket.org/mspasov/ms-lib

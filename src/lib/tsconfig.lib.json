@@ -15,8 +15,8 @@
     "annotateForClosureCompiler": true,
     "strictMetadataEmit": true,
     "skipTemplateCodegen": true,
-    "flatModuleOutFile": "ms.lib.ts.js",
-    "flatModuleId": "ms.lib.ts",
+    "flatModuleOutFile": "ms-lib.js",
+    "flatModuleId": "ms-lib",
     "genDir": "../../out-tsc/lib-gen-dir/"
   }
 }
