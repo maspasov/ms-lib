@@ -1,6 +1,6 @@
 {
   "name": "integration-test",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "App for integration tests",
   "scripts": {
     "clean": "rimraf aot/ dist/ node_modules/ms-lib/",
@@ -22,7 +22,8 @@
     "protractor": "protractor protractor.config.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Martin Spasov",
+  "email": "martospasov@gmail.com",
   "license": "MIT",
   "dependencies": {
     "@angular/common": "^4.1.3",
