@@ -1,6 +1,6 @@
 {
   "name": "ms-lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Library MS package.json from the documentation, supplemented with testing support",
   "main": "./bundles/ms-lib.umd.js",
   "module": "./ms-lib.es5.js",
